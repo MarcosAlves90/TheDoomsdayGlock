@@ -4,7 +4,7 @@
 
 Você parece preso em um loop. Aumente o seu **T.E.M.P.O** e recupere o tempo perdido.
 
-CONTROLES:
+**CONTROLES:**
 
 - Botão esquerdo do mouse: Atirar
 - Botão direito do mouse: Tiro carregado
@@ -13,7 +13,7 @@ CONTROLES:
 - Tecla Q: Desacelera o tempo
 - Tecla ESC: Pausar o jogo
 
-Trilha sonora:
+**Trilha sonora:**
 
 - 8 Bit Nostalgia - FesliyanStudios
 - Slowest Tempo-Retro Platforming - FesliyanStudios
