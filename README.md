@@ -1,4 +1,4 @@
-# The Doomsday Glock
+# [The Doomsday Glock](https://dakusturoi.itch.io/doomsday-glock)
 
 **The Doomsday Glock** é um jogo 2D de matemática inspirado em **The Binding of Isaac**. Nele você joga como o número "2", seu objetivo é eliminar as hordas de cristalizados enquanto fica cada vez mais forte.
 
